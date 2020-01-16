@@ -1,0 +1,21 @@
+h1, h2 {
+    color: purple;
+    font-size: 96px;
+}
+p {
+    text-align: center;
+    font-family: Helvetica;
+}
+img {
+    height: 320px;
+}
+em {
+    text-transform: uppercase;
+    font-style: initial;
+}
+body {
+    background-color: whitesmoke;
+}
+#first {
+    text-align: left;
+}
